@@ -2,7 +2,7 @@
 
 - I am web developer and graphics designer by passion 🚀
 - Looking for internships.
-- You can find my projects at https://github.com/wildchild746
+- You can find my projects at https://github.com/wildchild746?tab=repositories
 - Can reach me at shreeameyc@gmail.com
 - Love to play valorant in free time :D
 
