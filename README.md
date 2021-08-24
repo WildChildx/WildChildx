@@ -28,6 +28,7 @@
 <br>
 
 # Tech Stack 🛠 
+<div>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=C++ style="margin: 2px; border-radius:5px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=python style="margin: 2px; border-radius:5px"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=HTML style="margin: 2px; border-radius:5px"/>
@@ -36,7 +37,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt=Django style="margin: 2px; border-radius:5px"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt=Flask style="margin: 2px; border-radius:5px"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=MSQl style="margin: 2px; border-radius:5px"/>
-
+</div>
 <br>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchild746&theme=buefy&layout=compact" />
