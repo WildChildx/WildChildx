@@ -2,7 +2,7 @@
 
 - I am web developer and graphics designer by passion 🚀
 - Looking for internships.
-- You can find my projects at https://github.com/wildchild746?tab=repositories
+- You can find my projects at https://github.com/wildchild746
 - Can reach me at shreeameyc@gmail.com
 - Love to play valorant in free time :D
 
@@ -28,6 +28,7 @@
 <br>
 
 # Tech Stack 🛠
+
 <div>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=C++ style="margin: 2px; border-radius:5px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=python style="margin: 2px; border-radius:5px"/>
@@ -40,5 +41,13 @@
 </div>
 <br>
 <br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchild746&theme=buefy&layout=compact" />
 </a>
+
+<br>
+<br>
+
+# Hackerrank
+
+<img src="stars.png" height=150/>
