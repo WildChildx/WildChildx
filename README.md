@@ -40,13 +40,5 @@
 </div>
 <br>
 <br>
-
-# Hackerrank
-
-![App Screenshot](https://drive.google.com/file/d/1H59qlude33AuOS7rG3Xudpl2wKu-zDF_/view?usp=sharing)
-
-
-<br>
-<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchild746&theme=buefy&layout=compact" />
 </a>
