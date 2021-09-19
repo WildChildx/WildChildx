@@ -1,5 +1,6 @@
 # Hola, Shree here! 👋
-  <img src="welcome.gif" alt="animated" />
+<img src="welcome.gif" width="270" height="auto"/>
+
 <br>
 <br>
 
