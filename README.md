@@ -1,4 +1,7 @@
 # Hola, Shree here! 👋
+  <img src="welcome.gif" alt="animated" />
+<br>
+<br>
 
 - I am web developer and graphics designer by passion 🚀
 - Looking for internships.
@@ -44,7 +47,7 @@
 
 # Hackerrank
 
-<img src="stars.png" height=150/>
+<img src="hackerrank.png" height=150/>
 
 <br>
 <br>
