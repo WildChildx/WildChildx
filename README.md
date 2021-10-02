@@ -1,5 +1,5 @@
 # Hola, Shree here! 👋
-<img src="welcome.gif" width="270" height="auto"/>
+<img align="right" src="welcome.gif" width="270" height="auto"/>
 
 <br>
 <br>
