@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- I am web developer and graphics designer by passion 🚀
+- I am fullstack-web developer and graphics designer 🚀
 - Looking for internships.
-- You can find my projects at https://github.com/wildchild746
+- You can find my projects at https://github.com/WildChildx
 - Can reach me at shreeameyc@gmail.com
 - Love to play valorant in free time :D
 
@@ -16,7 +16,7 @@
 # Connect with me
 
 <div>
-<a href="https://github.com/wildchild746" target="_blank">
+<a href="https://github.com/WildChildx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;border-radius:5px" />
 </a>
 <a href="https://www.linkedin.com/in/shree-chatane-a202231b1/" target="_blank">
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-# Tech Stack 🛠
+# Tech & Tooling 🛠
 
 <div>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=C++ style="margin: 5px; border-radius:5px"/>
@@ -53,5 +53,5 @@
 <br>
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchild746&theme=buefy&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildChildx&theme=buefy&layout=compact" />
 </a>
