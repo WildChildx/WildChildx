@@ -5,8 +5,8 @@
 <br>
 
 - I am fullstack-web developer and graphics designer 🚀
+- You can find my projects at https://github.com/WildChildx?tab=repositories
 - Looking for internships.
-- You can find my projects at https://github.com/WildChildx
 - Can reach me at shreeameyc@gmail.com
 - Love to play valorant in free time :D
 
@@ -46,12 +46,16 @@
 <br>
 <br>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildChildx&theme=buefy&layout=compact" />
+</a>
+
+<br>
+<br>
+
 # Hackerrank
 
 <img src="hackerrank.png" height=150/>
 
-<br>
-<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildChildx&theme=buefy&layout=compact" />
-</a>
+
+
