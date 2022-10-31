@@ -1,4 +1,7 @@
 # Hola, Shree here! 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WildChildx&label=Profile%20views&color=0e75b6&style=flat" alt="WildChildx" /> </p>
+
 <img align="right" src="welcome.gif" width="270" height="auto"/>
 
 <br>
@@ -55,6 +58,10 @@
 # Hackerrank
 
 <img src="hackerrank.png" height=150/>
+
+# Profile Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WildChildx" alt="WildChildx" /></p>
 
 
 
